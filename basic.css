@@ -1,0 +1,19 @@
+body {
+    background-image: url(image\ 2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+table {
+    background-color: coral;
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: tan;
+}
